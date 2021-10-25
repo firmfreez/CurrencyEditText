@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CurrencyEditText">
+        <attr name="currencyType" format="enum">
+            <enum name="RUR" value="0"/>
+            <enum name="EUR" value="1"/>
+            <enum name="USD" value="2"/>
+        </attr>
+        <attr name="currencyStartValue" format="float"/>
+        <attr name="currencyMinValue" format="float"/>
+        <attr name="currencyMaxValue" format="float"/>
+        <attr name="currencyTypeSymbolSpacing" format="dimension"/>
+        <attr name="currencyDigitsAfterDot" format="integer"/>
+    </declare-styleable>
+</resources>
