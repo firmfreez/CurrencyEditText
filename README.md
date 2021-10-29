@@ -6,7 +6,7 @@ CurrencyEditText
 Demo
 ================
 
-[![ZAPIS-EKRANA-2021-10-29-V-19.52.53.gif](https://s1.gifyu.com/images/ZAPIS-EKRANA-2021-10-29-V-19.52.53.gif)](https://gifyu.com/image/eF5Z)
+<img src="https://user-images.githubusercontent.com/37814484/139474956-11e91162-9c9b-41bc-a9ec-ad3c1196e587.gif" width="300" height="500" />
 
 How to use?
 ================
